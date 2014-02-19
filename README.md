@@ -6,7 +6,7 @@ _Kwy·ji·bo, n._
 
 	“A big, dumb, balding North American ape with no chin and a short temper.”
 
-— Bart Simpson
+— [Bart Simpson](http://www.youtube.com/watch?v=MtM6tJaPzFI)
 
 Kwyjibo is also an experimental, automated referee for Scrabble games. It was built to explore real-time OCR, computer vision and machine learning as the subject of my dissertation at the [University of Sheffield](http://www.shef.ac.uk/) in 2011.
 
