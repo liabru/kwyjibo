@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kwyjibo", "Kwyjibo\Kwyjibo.csproj", "{7C645C40-3ADD-476F-8F3C-90750B5D102A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kwyjibo.ML", "Kwyjibo.ML\Kwyjibo.ML.csproj", "{EE3574FD-3491-45B6-BEA1-99E29CAE6C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kwyjibo.UserInterface", "Kwyjibo.UserInterface\Kwyjibo.UserInterface.csproj", "{39938B8C-8184-4ABC-BF3C-999CD0AEE0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C645C40-3ADD-476F-8F3C-90750B5D102A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C645C40-3ADD-476F-8F3C-90750B5D102A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C645C40-3ADD-476F-8F3C-90750B5D102A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C645C40-3ADD-476F-8F3C-90750B5D102A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE3574FD-3491-45B6-BEA1-99E29CAE6C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3574FD-3491-45B6-BEA1-99E29CAE6C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3574FD-3491-45B6-BEA1-99E29CAE6C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3574FD-3491-45B6-BEA1-99E29CAE6C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39938B8C-8184-4ABC-BF3C-999CD0AEE0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39938B8C-8184-4ABC-BF3C-999CD0AEE0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39938B8C-8184-4ABC-BF3C-999CD0AEE0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39938B8C-8184-4ABC-BF3C-999CD0AEE0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

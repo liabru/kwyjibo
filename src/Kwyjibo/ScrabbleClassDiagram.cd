@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Scrabble.ScrabbleGame">
+    <Position X="1" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAADCAACAAAACBAAAAAAAgAACAIQAAkCEAAAA=</HashCode>
+      <FileName>Modules\Scrabble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scrabble.WordDict">
+    <Position X="1" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAEgAAA=</HashCode>
+      <FileName>Modules\Scrabble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scrabble.Player">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAgAAAAIAQQAAAEEAAAAACAAAAAgAAA=</HashCode>
+      <FileName>Modules\Scrabble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scrabble.Board">
+    <Position X="5.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAkAAAAJQAIICAACAAACAAIAACAAAIDA=</HashCode>
+      <FileName>Modules\Scrabble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scrabble.Cell">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAAAAAAAAAAEAAAAAAAAAAABAAAAAUAAAABAQAA=</HashCode>
+      <FileName>Modules\Scrabble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scrabble.TileBag">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modules\Scrabble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scrabble.Word">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAEIAAAACAAAAAAQBAAAAAQAAAAA=</HashCode>
+      <FileName>Modules\Scrabble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scrabble.Tile">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEACAACAAgAAkAAAAIAAAQCAAAEABAAAAAQAAABA=</HashCode>
+      <FileName>Modules\Scrabble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Scrabble.CellType">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAABAgAAiAAAAAAAAAA=</HashCode>
+      <FileName>Modules\Scrabble.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

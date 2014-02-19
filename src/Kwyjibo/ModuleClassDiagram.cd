@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Scrabble.ImageFilters">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAgAAAAgAAAAAAAIAAASgAAAAAAA=</HashCode>
+      <FileName>AForge.NET\ImageFilters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scrabble.VideoInput">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAQAAAgAAAQACAAgAAIAAAAAAAAAA=</HashCode>
+      <FileName>AForge.NET\VideoInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scrabble.BoardDetector">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAJEABASIAAACIAgIAAAICEDSEAAACMSAgJjAAICA=</HashCode>
+      <FileName>Modules\BoardDetector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scrabble.TileDetector">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAIAIAgKAAAICEBAEAAACASAgJAgAICA=</HashCode>
+      <FileName>Modules\TileDetector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scrabble.TileOCR">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgAAAAAAABAAAAAAgAAQAAICAEAAHgAAQAAAAEIAAA=</HashCode>
+      <FileName>Modules\TileOCR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Scrabble.OCRResult">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAACAAAUAgAAFAAAAAAAABAAAA=</HashCode>
+      <FileName>Modules\TileOCR.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
